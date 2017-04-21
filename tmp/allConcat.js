@@ -8,6 +8,8 @@ var displayData = function(medissue, result){
 };
 
 
+
+
 $(function(){
   var doctor = new Doctor();
 
